@@ -1,5 +1,7 @@
 body{
     font-size: 24px;
+    font-family: 'Indie Flower', cursive;
+
 }
 
 div{
@@ -25,3 +27,4 @@ div{
     font-size: 30px;
     background-color: beige;
 }
+

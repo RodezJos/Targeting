@@ -1,11 +1,32 @@
-b{
-    background-color: red;
-}
-
 body{
     background-color: goldenrod;
+    font-family: 'Indie Flower', cursive;
+
+}
+
+
+div{
+    color: blueviolet;
+}
+
+p{
+    color: blueviolet;
 }
 
 b{
-    background-color: rgb(7, 48, 184);
+    color: red;
+}
+
+
+
+.text{
+    background-color: bisque;
+}
+
+.text2{
+    color: aquamarine;
+}
+
+header{
+    color: yellow;
 }
